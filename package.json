@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Scenario As a new developer, you’ve been tasked with creating an interactive Rock-Paper-Scissors game. The CLI tool should:",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
